@@ -1,4 +1,4 @@
-# PowerBI_Financial_Analysis_Report
+#Financial_Analysis_Report_PowerBI
 Project Overview : This project focused on analyzing the raw data given by company. The objective is to examine the revenue on the basis of different category and create dynamic dashboard on "Financial Sales Dashboard" to track.
 
 
